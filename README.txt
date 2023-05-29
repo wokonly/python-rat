@@ -35,4 +35,7 @@ Run server.py and then get the user to run the client.exe / client.py
 
 If you cant keep your pc on 24/7 and dont have stable wifi I would get a vps server to host the server.py
 
-# Issues / Feedback / 
+# Issues / Feedback
+
+Please report issues at https://github.com/wokonly/python-rat/issues
+Join the discord to report feedback or help! https://discord.gg/VAx9qUsfhw
