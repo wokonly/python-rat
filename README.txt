@@ -17,4 +17,22 @@ client.py - goto line 356 and 357 and change localhost to your IP address then c
 
 # How to build
 
-Open command promt and enter in these commands ()
+Open command promt and enter in these commands
+
+cmd> cd C:\Users\Wok\example\Test
+
+pip install pyinstaller
+or
+py -m pip install pyinstaller
+
+pyinstaller --onefile --noconsole client.py
+
+Goto dist in the file location and client.exe will be there
+
+# What to do
+
+Run server.py and then get the user to run the client.exe / client.py
+
+If you cant keep your pc on 24/7 and dont have stable wifi I would get a vps server to host the server.py
+
+# Issues / Feedback / 
